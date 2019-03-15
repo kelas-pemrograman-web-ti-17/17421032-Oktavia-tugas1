@@ -1,0 +1,53 @@
+<html>
+<title> okta </title>
+<head>
+  <from action=""method="post">
+    <h1 align="center"> Biodata Diri </h1>
+    <hr>
+
+  <img src="4x6.jpg"height="150" width=""140" align="right"/>
+  <table border="0">
+
+  <tr>
+    <td> Npm </td>
+    <td>:</td>
+    <td><input type="text"name="Npm"size="25"value="17421032"/></td>
+  </tr>
+
+  <tr>
+    <td> Nama </td>
+    <td>:</td>
+    <td><input type="text"name="Nama"size="25"value="Oktavia Laurina"/></td>
+  </tr>
+
+  <tr>
+    <td> Tempat lahir </td>
+    <td>:</td>
+    <td><input type="text"name="Tempat Lahir"size="25"value="Bandar Lampung"/></td>
+  </tr>
+
+  <tr>
+    <td> Tanggal Lahir </td>
+    <td>:</td>
+    <td><input type="text"name="Tanggal Lahir"size="25"value="15 Oktober 1998"/></td>
+  </tr>
+
+  <tr>
+    <td> Hobi </td>
+    <td>:</td>
+    <td><input type="text"name="Hobi"size="25"value="Traveling"/></td>
+  </tr>
+
+<body>
+
+  <from action="#" style="width"700px"class="posisi";>
+  <fieldset class="h"/>
+  <table style="width: 600px;">
+  <body style="background-color:pink"></body>
+
+
+
+
+</body>
+</head>
+</html>
